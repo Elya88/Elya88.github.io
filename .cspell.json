@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": [],
+  "words": ["Elnura"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
